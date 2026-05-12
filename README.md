@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Van Nguyen
+# 👋 Hi, I'm Vincent
 ## AI Systems Architect | MSc. Architect | Innovation Strategist 
 ### *Bridging 20 Years of Structural Rigor with AI-Powered Ecosystems*
 
