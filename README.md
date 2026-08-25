@@ -2,11 +2,11 @@
 ## AI Systems Architect | MSc. Architect | Innovation Strategist 
 ### *Bridging 20 Years of Structural Rigor with AI-Powered Ecosystems*
 
-I am a **systems-focused Architect** with over two decades of experience delivering results in the highly competitive Design & Build industry. I specialize in **Solution Architecture**, translating complex engineering functionality into aesthetic, human-centered digital experiences.
+I am a **systems-focused Architect** with over two decades of experience delivering results in the highly competitive Design & Build industry. I specialize in **Solution Architecture and Agentic AI Workflows**, translating complex engineering functionality into aesthetic, human-centered digital experiences.
 
 * 🏆 **1st Prize & Golden Ticket Winner**, Takomo Startup Bootcamp 2026
 * 🎓 **Master of Science** in Urban Planning
-* ✍️ **Author** of *STREAM-EDGE METHODOLOGY*
+* ✍️ **Author** of *STREAM-EDGE METHODOLOGY* & *DYNAMIC CHANNEL THINKING* 
 * 🏗️ **Lead 100+ projects** across architecture, design, and consulting
 
 ---
@@ -33,6 +33,7 @@ After two decades leading over **100 multidisciplinary projects** in the Design 
 * **AEC Innovation:** Compressing the design-to-render cycle from days to minutes through specialized **AI workflow orchestration**. 
 * **Phygital Ecosystems:** Developing platforms like **AinoClub.com** that translate physical human inputs into digital pedagogical data.
 * **Privacy Engineering:** Implementing **Privacy Proxy Middleware** to ensure GDPR compliance in enterprise-tier AI processing.
+* **Spatial Computing & Virtual Environments:** Translating computational design into real-time environments (Unity 6000.0, Blender Geometry Nodes, Web3 spatial architecture).
 
 ---
 
